@@ -2,7 +2,7 @@
 
 I learned HTML, CSS, JavaScript, Bootstrap and Tailwind CSS in Frontend development and my backend developement is contiune in Node js and Express with MongoDB
 
-### YouTube channel links: 
+### YouTube channel link: 
 https://www.youtube.com/@CodebyNoor
 
 

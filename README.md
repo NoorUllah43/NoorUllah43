@@ -7,7 +7,7 @@ I specialize in building dynamic, scalable, and high-performance web application
 ## 🔹 My Expertise Includes:<br>
 ✅ Frontend: React.js, Tailwind CSS, JavaScript (ES6+) <br>
 ✅ Backend: Node.js, Express.js, RESTful APIs, Authentication (JWT, OAuth) <br>
-✅ Database: MongoDB, Mongoose, NoSQL
+✅ Database: MongoDB, Mongoose, NoSQL <br>
 ✅ Other Skills: CRUD Operations, State Management, Deployment (Vercel, Netlify) <br>
 <br>
 ## I have built various MERN stack projects, including: <br>
